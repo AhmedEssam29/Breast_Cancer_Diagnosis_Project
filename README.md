@@ -1,7 +1,4 @@
 
-Here's an example within the context of your README:
-
-```markdown
 # Breast Cancer Diagnosis Project
 
 Welcome to the Breast Cancer Diagnosis Project! This project aims to predict whether a breast cancer diagnosis is malignant or benign based on the physical characteristics of the tumor. The project uses a dataset of breast cancer tumor features and applies machine learning techniques to build a predictive model.
